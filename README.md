@@ -1,7 +1,7 @@
 # usbwrite
 dd wrapper for easily writing ISO to USB devices.
 
-Usage: sudo usbwrite [iso] [usb]
+Usage: `sudo usbwrite [iso] [usb]`
 
 ## Install
 ```
