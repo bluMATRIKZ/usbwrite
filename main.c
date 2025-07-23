@@ -23,7 +23,7 @@
 
 int main(int argc, char *argv[]) {
     if (argc != 3) {
-        fprintf(stderr, "Usage: usbwrite <iso pattern> <usb device>\n");
+        fprintf(stderr, "Usage: usbwrite <iso> <usb>\n");
         return 1;
     }
 
